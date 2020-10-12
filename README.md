@@ -1,3 +1,3 @@
-![Banner](./assets/gitub.gif)
+![Banner](./assets/github.gif)
 
 
